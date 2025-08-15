@@ -39,7 +39,7 @@ This project focuses on classifying the **CIFAR-10** dataset, which contains 60,
 - Successfully classified images into 10 categories.  
 - Visualized sample predictions to confirm model learning.
 
-## ✅ Conclusion
+9.Conclusion
 This project demonstrates a simple yet effective approach for CIFAR-10 classification using dense neural networks.  
 Although convolutional neural networks (CNNs) could improve performance, this architecture shows how dense layers can still capture patterns in image data after flattening.
 
