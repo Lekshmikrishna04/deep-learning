@@ -21,11 +21,11 @@ Generated two tensors with random values between 0 and 1 of shape [5, 300].
 Used TensorFlow operations to manipulate and analyze tensors, such as reshaping and performing arithmetic.
 Verified the results by printing intermediate outputs.
 
-5.Results
+4.Results
 Successfully created and manipulated tensors of various dimensions.
 Verified the shape, rank, and size of all tensors created in Q1 and Q2.
 Generated random tensors as specified in Q3, ensuring values were within the correct range.
 Demonstrated basic arithmetic and reshaping operations in TensorFlow.
 
-6.Conclusion
+5.Conclusion
 This experiment provided hands-on practice with TensorFlow basics, an essential prerequisite for implementing deep learning architectures. Understanding tensors, their properties, and operations ensures a solid foundation for model building, training, and optimization.
