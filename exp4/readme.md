@@ -42,11 +42,11 @@ Optimizer: Adam.
 Evaluation on CIFAR-10 test set.
 
 
-8.Results
+4.Results
 Achieved a good accuracy test set.
 Successfully classified images into 10 categories.
 Visualized sample predictions to confirm model learning.
 
 
-9.Conclusion This project demonstrates a simple yet effective approach for CIFAR-10 classification using dense neural networks.
+5.Conclusion This project demonstrates a simple yet effective approach for CIFAR-10 classification using dense neural networks.
 Although convolutional neural networks (CNNs) could improve performance, this architecture shows how dense layers can still capture patterns in image data after flattening.
